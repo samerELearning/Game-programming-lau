@@ -1,0 +1,2 @@
+# Game-programming-lau
+This course introduces software technologies related to game development, as well as the art and design principles needed to create compelling games. Topics include game history and taxonomy, game play design and the components of a video game experience, software architecture for games, intro to 3D graphics and stereoscopic computer graphics, hardware architecture of contemporary video game platforms, human physical and perceptual limits, game artificial intelligence, multiplayer game design, game physics and intro to real time shading effects.
